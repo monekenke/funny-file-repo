@@ -64,3 +64,4 @@ WHITE PERSON LINGO
 		-- "Laddie"
 		-- "Lass"
 		-- "Lassie"
+	-- "Newsflash"
